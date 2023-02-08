@@ -16,5 +16,6 @@ export {default as CardSlider} from '../components/cardSlider/cardSlider'
 
 export {default as Technologies} from '../components/technologiesUsed/technologies'
 
+export {default as Brands} from '../components/brands/brands'
 
-
+export {default as HowWeBuild} from '../components/howWeBuild/howWeBuild'
