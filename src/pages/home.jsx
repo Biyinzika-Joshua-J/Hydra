@@ -9,6 +9,7 @@ import {
   Technologies,
   Brands,
   HowWeBuild,
+  Form,
 } from "../components/";
 
 const Home = () => {
@@ -24,6 +25,7 @@ const Home = () => {
         <Technologies />
         <Brands/>
         <HowWeBuild/>
+        <Form/>
       </div>
     </>
   );

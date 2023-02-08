@@ -16,6 +16,21 @@ function App() {
           main: '#302C42',
           contrastText: '#fff',
         }
+      },
+
+      components:{
+        MuiTextField:{
+          styleOverrides:{
+            root:{
+              border:'2px solid #fff',
+              borderRadius:'100px',
+            },
+            focus:{
+              outline:'none',
+
+            }
+          }
+        }
       }
     
   })

@@ -19,3 +19,5 @@ export {default as Technologies} from '../components/technologiesUsed/technologi
 export {default as Brands} from '../components/brands/brands'
 
 export {default as HowWeBuild} from '../components/howWeBuild/howWeBuild'
+
+export {default as Form} from '../components/form/form'
